@@ -1,5 +1,5 @@
 import unittest
-from main import bubble_sort
+from test_version_vscode.main import bubble_sort
 
 
 class TestBubbleSort(unittest.TestCase):

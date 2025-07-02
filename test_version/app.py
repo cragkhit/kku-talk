@@ -1,5 +1,5 @@
 from flask import Flask, request, render_template_string
-from main import bubble_sort, remove_duplicates
+from test_version_vscode.main import bubble_sort, remove_duplicates
 
 app = Flask(__name__)
 
