@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request, jsonify
-from test_version_vscode.main import bubble_sort, remove_duplicates
+from main import bubble_sort, remove_duplicates
 
 app = Flask(__name__)
 
